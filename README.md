@@ -1,1 +1,1 @@
-https://devop1337.github.io/goit-js-hw-05/
+https://devop1337.github.io/goit-js-hw-06/
